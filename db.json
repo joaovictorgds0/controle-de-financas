@@ -1,0 +1,18 @@
+{
+  "transactions": [
+    {
+      "id": "b190",
+      "name": "Liferay",
+      "amount": 1800
+    },
+    {
+      "id": "cd21",
+      "name": "Aluguel",
+      "amount": -600
+    }
+  ],
+  "balance": {
+    "id": 1,
+    "value": 2800
+  }
+}
